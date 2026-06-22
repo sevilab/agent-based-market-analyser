@@ -1,0 +1,15 @@
+streamlit
+crewai
+langchain
+langchain-community
+langchain-google-genai
+langchain-groq
+pydantic
+python-dotenv
+
+selenium
+webdriver-manager
+youtube-transcript-api
+python-whois
+requests
+google-search-results
